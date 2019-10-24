@@ -2,5 +2,5 @@
 
 ## The program turns on and off the three LEDs in sequence. This could be used for the basis of a traffic light timer.
 
-[Video of operation]( https://drive.google.com/open?id=18U0jX9cr7zGimJkgGed54jC9b5KrN0VZ)
+[Video of operation](https://drive.google.com/file/d/18gU_Vfsk0jVLpXjB2nGGvm0yi-L8npaj/view?usp=sharing)
 
